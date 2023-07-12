@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Syntaxsh
+- 👋 Hi, I’m Ashley Otchengco
 - Love to explore and learn every single thing to become a great developer
 - I’m currently learning as a Web Developer 
 - I’m looking to collaborate on Web Development
